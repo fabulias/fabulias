@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I am a software engineer passionate about algorithms and data structures. I love coding in Go, C++, and sometimes in python :) I love nature in general 🍃
+I am a software engineer passionate about algorithms and data structures. I love coding in Go, C++, and sometimes in python :)
+
+I love nature in general 🍃
 
 * 🌍  I'm based in Santiago, Chile 🇨🇱
 * ✉️  You can contact me at [farid.abulias@gmail.com](mailto:farid.abulias@gmail.com)
