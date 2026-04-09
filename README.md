@@ -23,15 +23,6 @@ Senior Software Engineer with a background in high-availability systems and netw
 
 **Technologies:** Go, Python, Docker, Kubernetes, Prometheus, Groundcover, MongoDB, Grafana
 
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Universidad Diego Portales | B.Sc. in Computer and Telecommunications Engineering | 2012-03 - 2018-08 |
-
-### B.Sc. in Computer and Telecommunications Engineering in 
-*Universidad Diego Portales*
-
 ## 📞 Contact & Links
 
 <div align="left">
