@@ -12,17 +12,6 @@
 
 Senior Software Engineer with a background in high-availability systems and network infrastructure. My education focused on a rigorous 6-year program combining advanced software development, telecommunications, and engineering management. I specialize in building scalable backend services and distributed systems.
 
-## 💼 Work Experience
-
-| Company | Position | Duration |
-|---|---|---|
-| SoftServe Inc | Senior Go Web Developer | 2024-03 - Present |
-
-### Senior Go Web Developer at SoftServe Inc
-*Santiago, Chile*
-
-**Technologies:** Go, Python, Docker, Kubernetes, Prometheus, Groundcover, MongoDB, Grafana
-
 ## 📞 Contact & Links
 
 <div align="left">
