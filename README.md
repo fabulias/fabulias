@@ -4,8 +4,6 @@
 
 ### A passionate developer from Santiago, Chile
 
-<img src="https://github.com/fabulias.png" alt="Farid Abulias" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ## 🚀 About Me
