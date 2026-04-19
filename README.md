@@ -68,7 +68,7 @@ Senior Software Engineer with a background in high-availability systems and netw
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=fabulias&theme=default&column=7&margin-w=15&margin-h=15)
+![trophy](https://github-profile-repo.vercel.app/?username=fabulias&theme=onedark)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=fabulias&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
