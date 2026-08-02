@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Senior Software Engineer with a background in high-availability systems and network infrastructure. My education focused on a rigorous 6-year program combining advanced software development, telecommunications, and engineering management. I specialize in building scalable backend services and distributed systems.
+Senior Software Engineer with a background in high-availability systems and network infrastructure. My education focused on a rigorous 8-year program combining advanced software development, telecommunications, and engineering management. I specialize in building scalable backend services and distributed systems.
 
 ## 📞 Contact & Links
 
